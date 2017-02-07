@@ -1,0 +1,2 @@
+Boot for LEAGOO M5!
+Include => OTG,init.d!
